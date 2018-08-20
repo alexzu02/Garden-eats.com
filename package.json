@@ -1,12 +1,12 @@
 {
-  "name": "GardenEats",
+  "name": "garden-eats",
   "version": "1.0.0",
-  "description": "Proyecto final Garden Eats",
+  "description": "Proyecto final Garden-Eats.com",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Walter Guzman y Alexander Zúñiga",
+  "author": "Alexander Zúñiga y Walter Guzmán",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.0",
