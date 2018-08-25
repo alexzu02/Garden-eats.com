@@ -1,6 +1,7 @@
 # Garden-eats.com
 
 Usuario Administrador: admin@garden-eats.com, clave 1234
+Usuario Comprador: comprador@garden-eats.com, clave 1234
 
 Universidad Latina De Costa Rica, Sede Guápiles
 
